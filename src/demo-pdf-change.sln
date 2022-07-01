@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "demo-pdf-change", "demo-pdf-change\demo-pdf-change.hmiproj", "{BB19971D-31CC-4285-AF41-0988467F1B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB19971D-31CC-4285-AF41-0988467F1B4A}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{BB19971D-31CC-4285-AF41-0988467F1B4A}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{BB19971D-31CC-4285-AF41-0988467F1B4A}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{BB19971D-31CC-4285-AF41-0988467F1B4A}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC1AA907-2321-4538-B830-F18A5C2F1801}
+	EndGlobalSection
+EndGlobal
